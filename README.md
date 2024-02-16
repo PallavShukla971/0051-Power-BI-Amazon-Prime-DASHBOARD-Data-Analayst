@@ -3,7 +3,7 @@
 
 
 
-Hey Everyone- This is the Netflix Dashboard Made in Power Bi
+Hey Everyone- This is the Amazon Prime Dashboard Made in Power Bi
 
 
 
